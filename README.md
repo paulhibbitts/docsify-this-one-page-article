@@ -30,4 +30,4 @@ Docsify-This Examples
 [Docsify This One Page Article Template](https://github.com/paulhibbitts/docsify-this-one-page-article/blob/main/home.md), displayed by Docsify-This as a:  
 * [Standalone Page](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-article/main&homepage=home.md#/ "Docsify This One Page Article")  
 * [Standalone Page with Table of Contents including h2 and h3 Headers](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-article/main&homepage=home.md&toc=true&toc-headings=h2,h3#/ "Docsify This One Page Article")
-* [Standalone Page with Docsify Sidebar with maxLevel of 3 (H3)](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-article/main&homepage=home.md#/&sidebar=true&maxLevel=3 "Docsify This One Page Article")
+* [Standalone Page with Docsify Sidebar with maxLevel of 3 (H3)](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3 "Docsify This One Page Article")
