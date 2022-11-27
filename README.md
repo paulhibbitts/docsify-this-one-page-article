@@ -9,7 +9,7 @@
 > This is a one page course site template for use with [Docsify-This](https://docsify-this.net/#/).
 
 ![ Docsify Docsify This One Page Article Template](screenshot.png)
-_Figure 1. Docsify Docsify This One Page Article Template. Explore a demo at [https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-article-template/main&homepage=home.md&sidebar=true&maxLevel=3](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-article-template/main&homepage=home.md&sidebar=true&maxLevel=3)_
+_Figure 1. Docsify Docsify This One Page Article Template. Explore the resulting standalone web page at [https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-article-template/main&homepage=home.md&sidebar=true&maxLevel=3](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-article-template/main&homepage=home.md&sidebar=true&maxLevel=3)_
 
 How to Use
 ---
