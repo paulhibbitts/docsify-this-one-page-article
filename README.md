@@ -1,4 +1,4 @@
-# Docsify This One Page Course
+# Docsify This One Page Article
 
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/LICENSE)
@@ -21,7 +21,7 @@ How to Use
 
 5. Tap the **View as Standalone Page** button to view your Markdown file as a web page
 
-Examples
+Docsify-This Examples
 ---
 
 [Docsify This One Page Article](https://github.com/paulhibbitts/docsify-this-one-page-course/blob/main/home.md), displayed by Docsify-This as a:  
