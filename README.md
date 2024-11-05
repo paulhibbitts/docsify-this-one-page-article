@@ -20,13 +20,13 @@ How to Use
 
 3. Choose the name for your new repository to contain the files and then tap **Create repository from template**
 
-4. View an included Markdown file, for example **home.md**, and copy its URL. To edit a file in GitHub, tap the **Pencil** icon (Edit File) in the upper-right and then tap the **Commit changes..." button to save any changes.
+4. View an included Markdown file, for example **home.md**, and copy its URL.
 
 5. Go to https://docsify-this.net and paste the copied URL into the **Markdown File URL** field
 
 6. Select the page options you want (e.g. Docsify Sidebar) and tap the **Publish as a Standalone Web Page** button to view your Markdown file as a web page for sharing or embedding
 
-You can further customize the appearance of your web page by tapping on the **Show More Page Options »** link in the Docsfy-This Web Page Builder.
+Now that the template files are located on your own GitHub account, modify their content to fit your needs. To edit a file in GitHub, tap the **Pencil** icon (Edit File) in the upper-right and then tap the **Commit changes..." button to save any changes.  
 
 Docsify-This Examples
 ---
