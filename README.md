@@ -26,7 +26,7 @@ How to Use
 
 6. Select the page options you want (e.g. Docsify Sidebar) and tap the **Publish as a Standalone Web Page** button to view your Markdown file as a web page for sharing or embedding
 
-To edit a file in GitHub, tap the **Pencil** icon (Edit File) in the upper-right when viewing the file, make your changes, and then tap the **Commit changes...** button to save those changes.  
+To edit a file in GitHub, tap the **Pencil** icon (Edit file) in the upper-right when viewing the file, make your changes, and then tap the **Commit changes...** button to save those changes.  
 
 Docsify-This Examples
 ---
