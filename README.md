@@ -20,7 +20,7 @@ How to Use
 
 3. Choose the name for your new repository to contain the files and then tap **Create repository from template**
 
-4. View an included Markdown file, for example **home.md**, and copy its URL. To edit a file in GitHub, tap **Pencil** icon (Edit File) in the upper-right and then tap the **Commit changes..." button to save any changes.
+4. View an included Markdown file, for example **home.md**, and copy its URL. To edit a file in GitHub, tap the **Pencil** icon (Edit File) in the upper-right and then tap the **Commit changes..." button to save any changes.
 
 5. Go to https://docsify-this.net and paste the copied URL into the **Markdown File URL** field
 
