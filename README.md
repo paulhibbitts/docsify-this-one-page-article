@@ -14,15 +14,17 @@ _Figure 1. Docsify Docsify-This One Page Article Template. Explore the resulting
 How to Use
 ---
 
-1. Tap **Use this template** in this repository (upper-right green button) and then choose **Create a new repository**
+1.  Sign in to [GitHub](https://github.com), or create an account if you don’t already have one.
 
-2. Choose the name for your new repository to contain the files and then tap **Create repository from template**
+2. Tap **Use this template** in this repository (upper-right green button) and then choose **Create a new repository**
 
-3. View the **home.md** Markdown file in your newly created repository and copy it's URL
+3. Choose the name for your new repository to contain the files and then tap **Create repository from template**
 
-4. Go to https://docsify-this.net and paste the copied URL into the **Markdown File URL** field
+4. View an included Markdown file, for example **home.md**, and copy its URL. To edit a file in GitHub, tap **Pencil** icon (Edit File) in the upper-right and then tap the **Commit changes..." button to save any changes.
 
-5. Select the page options you want (e.g. Docsify Sidebar) and tap the **Publish as a Standalone Web Page** button to view your Markdown file as a web page for sharing or embedding
+5. Go to https://docsify-this.net and paste the copied URL into the **Markdown File URL** field
+
+6. Select the page options you want (e.g. Docsify Sidebar) and tap the **Publish as a Standalone Web Page** button to view your Markdown file as a web page for sharing or embedding
 
 You can further customize the appearance of your web page by tapping on the **Show More Page Options »** link in the Docsfy-This Web Page Builder.
 
