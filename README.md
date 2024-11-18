@@ -14,7 +14,7 @@ _Figure 1. Docsify Docsify-This One Page Article Template. Explore the resulting
 How to Use
 ---
 
-1.  Sign in to [GitHub](https://github.com), or create an account if you don’t already have one.
+1. Sign in to [GitHub](https://github.com), or create an account if you don’t already have one.
 
 2. Tap **Use this template** in this repository (upper-right green button) and then choose **Create a new repository**
 
